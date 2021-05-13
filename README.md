@@ -6,3 +6,5 @@ Repositório dedicado ao ensino de desenvolvimento web. É possível acompanhar 
 
 ## Conteúdo disponível:
 - [O que é Web? - #DW1](https://youtu.be/AIN2APAsZ_Q) 
+- [O que é HTML? - #DW2](https://youtu.be/aTwFiJeZyss) 
+- [O que são tags e elementos HTML - #DW3](https://youtu.be/9wx3MGpiO_g) 
