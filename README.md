@@ -15,6 +15,6 @@ Repositório dedicado ao ensino de desenvolvimento web. É possível acompanhar 
 ## Material desenvolvido em cada aula:
 Os conteúdos estão sendo disponibilizados por meio das branches deste repositório, conforme ocorre o desenvolvimento.
 
-- [O que é HTML? - #DW2](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw2)
-- [Exibição de dados - #DW4](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw4)
-- [Atributos HTML - #DW5](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw5)
+- [O que é HTML? - #DW2](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw2/index.html)
+- [Exibição de dados - #DW4](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw4/index.html)
+- [Atributos HTML - #DW5](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw5/index.html)
