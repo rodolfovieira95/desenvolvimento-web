@@ -10,12 +10,21 @@ th,td{
 }
 #div1{
     background-color: chartreuse;
+    position:absolute;
+    top: 0px;
+    left: 0px;
 }
 #div2{
     background-color: yellow;
 }
 #div3{
     background-color: blue;
+    height: 3000px;
+}
+#div4{
+    background-color: violet;
+    height: 3000px;
+    position: relative;
 }
 .borda{
     border: 1px solid black;
