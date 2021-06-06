@@ -15,9 +15,12 @@ Repositório dedicado ao ensino de desenvolvimento web. É possível acompanhar 
 - Posicionamento - #DW8 - Disponível 21/06
 
 
-## Material desenvolvido em cada aula:
+## Material desenvolvido em cada vídeo:
 Os conteúdos estão sendo disponibilizados por meio das branches deste repositório, conforme ocorre o desenvolvimento.
 
 - [O que é HTML? - #DW2](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw2/index.html)
-- [Exibição de dados - #DW4](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw4/index.html)
-- [Atributos HTML - #DW5](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw5/index.html)
+- [Exibindo dados no HTML - #DW4](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw4/index.html)
+- [O que são atributos do HTML - #DW5](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw5/index.html)
+- [Estilizando HTML - #DW6](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw6/index.html)
+- [CSS HTML - #DW7](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw7)
+- [Posicionamento - #DW8](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw8)
