@@ -8,8 +8,11 @@ Repositório dedicado ao ensino de desenvolvimento web. É possível acompanhar 
 - [O que é Web? - #DW1](https://youtu.be/AIN2APAsZ_Q) 
 - [O que é HTML? - #DW2](https://youtu.be/aTwFiJeZyss) 
 - [O que são tags e elementos HTML - #DW3](https://youtu.be/9wx3MGpiO_g) 
-- Exibição de dados - #DW4 - Disponível 17/05
-- Atributos HTML - #DW5 - Disponível 24/05
+- [Exibindo dados no HTML - #DW4](https://youtu.be/saKG7udPzNE)
+- [O que são atributos do HTML - #DW5](https://youtu.be/N6L1zUU4S98)
+- [Estilizando HTML - #DW6](https://youtu.be/H0cd5oVoSYw)
+- CSS - #DW7 - Disponível 14/06
+- Posicionamento - #DW8 - Disponível 21/06
 
 
 ## Material desenvolvido em cada aula:
