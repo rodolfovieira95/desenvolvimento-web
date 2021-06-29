@@ -15,6 +15,7 @@ Repositório dedicado ao ensino de desenvolvimento web. É possível acompanhar 
 - [CSS - #DW7](https://youtu.be/PxclWLGRdwY)
 - [CSS Posicionamento - #DW8](https://youtu.be/jyWbHufvnqY)
 - [Flex - #DW9](https://youtu.be/rMMeIhlJ-Ek)
+- [Grid - #DW10](https://youtu.be/HgdQ2imYQn8)
 
 ## :blue_book: Material desenvolvido em cada vídeo:
 
@@ -27,3 +28,4 @@ Os conteúdos estão sendo disponibilizados por meio das branches deste reposit�
 - [CSS HTML - #DW7](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw7)
 - [Posicionamento - #DW8](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw8)
 - [Flex - #DW9](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw9)
+- [Grid - #DW10](https://github.com/rodolfovieira95/desenvolvimento-web/tree/dw10)
