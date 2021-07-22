@@ -8,13 +8,16 @@
   </head>
   <body>
     <script src="script.js" defer></script>
-    <div id="container">
-      <div id="item1" onclick="handleClick()">1</div>
-      <div id="item2">2</div>
-      <div id="item3">3</div>
-      <div id="item4">4</div>
-      <div id="item5">4</div>
-      <div id="item6">4</div>
+    <div>
+      <label for="metro">metro</label>
+      <input type="number" id="metro" onchange="handleChange('metro')" />
+      <label for="kilometro">kilometro</label>
+      <input
+        type="number"
+        id="kilometro"
+        onchange="handleChange('kilometro')"
+      />
+      <!-- <button onclick="handleClick()">Converter</button> -->
     </div>
   </body>
 </html>
